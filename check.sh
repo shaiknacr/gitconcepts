@@ -1,5 +1,5 @@
 echo " enter two numbers"
 read a b
-e=$(($a+$b))
+=$(($a+$b))
 echo "$e"
 
